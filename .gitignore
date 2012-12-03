@@ -1,0 +1,54 @@
+# Compiled source
+*.a
+*.dll
+*.dylib
+*.exe
+*.ilk
+*.lib
+*.o
+*.pdb
+*.so
+*.so.*
+
+# Visual Studio Specific Files
+*.sln
+*.ncb 
+*.vcproj
+*.vcxproj
+*.filters
+*.user
+*.suo
+*.sdf
+*.opensdf
+
+# CMake Files
+CMakeCache.txt
+cmake_install.cmake
+
+# Make files
+Makefile
+
+# Folders
+Debug/
+debug/
+Release/
+release/
+ipch/
+*.dir/
+CMakeFiles/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS generated files
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
